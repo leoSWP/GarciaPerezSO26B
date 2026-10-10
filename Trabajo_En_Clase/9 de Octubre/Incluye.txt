@@ -1,0 +1,2 @@
+#Ejercicio 7- "Crear el Script usuarionocetado"
+#Ejercicio 8- "Modificar el fichero ~./bashrc para modificar el PATH"
