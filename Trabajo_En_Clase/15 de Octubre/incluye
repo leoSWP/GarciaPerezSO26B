@@ -1,0 +1,1 @@
+Un nuevo cron donde que concatena una consulta "ls -l" a un archivo llamado "archivo de consulta.txt" desde un ejecutable bash
