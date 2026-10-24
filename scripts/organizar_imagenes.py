@@ -14,7 +14,7 @@ from openai import OpenAI
 
 IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp", ".gif"}
 MAX_IMAGE_BYTES = 10 * 1024 * 1024
-ROOT_FOLDER = Path("Practicas")
+ROOT_FOLDER = Path("practicas")
 INVENTORY_NAME = "Incluye.txt"
 
 
